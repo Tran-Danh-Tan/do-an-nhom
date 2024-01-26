@@ -1,0 +1,16 @@
+F:\Học Tập\Lap trinh window\test git\test git\bin\Debug\net8.0-windows\test git.exe
+F:\Học Tập\Lap trinh window\test git\test git\bin\Debug\net8.0-windows\test git.deps.json
+F:\Học Tập\Lap trinh window\test git\test git\bin\Debug\net8.0-windows\test git.runtimeconfig.json
+F:\Học Tập\Lap trinh window\test git\test git\bin\Debug\net8.0-windows\test git.dll
+F:\Học Tập\Lap trinh window\test git\test git\bin\Debug\net8.0-windows\test git.pdb
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test_git.Form1.resources
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.csproj.GenerateResource.cache
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.GeneratedMSBuildEditorConfig.editorconfig
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.AssemblyInfoInputs.cache
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.AssemblyInfo.cs
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.csproj.CoreCompileInputs.cache
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.dll
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\refint\test git.dll
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.pdb
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\test git.genruntimeconfig.cache
+F:\Học Tập\Lap trinh window\test git\test git\obj\Debug\net8.0-windows\ref\test git.dll
